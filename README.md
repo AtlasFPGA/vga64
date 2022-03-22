@@ -6,7 +6,7 @@ La profundidad actual que conseguimos de 64 colores usando 2 bits por color, por
 El adaptador puede ser usado solo o con una adaptador vga<->scart si el core lo permite sin problemas.
 
 # Esquemas
-https://github.com/AtlasFPGA/vga64/raw/main/photos/VGADIRECTO_schema.png[https://github.com/AtlasFPGA/vga64/blob/main/VGADIRECTO.pdf]
+![Esquema vga64](https://github.com/AtlasFPGA/vga64/raw/main/photos/VGADIRECTO_schema.png?raw=true)[https://github.com/AtlasFPGA/vga64/blob/main/VGADIRECTO.pdf]
 
 # Material
 * 1 x PCB vga
