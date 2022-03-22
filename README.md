@@ -24,7 +24,8 @@ https://github.com/AtlasFPGA/vga64/raw/main/photos/VGADIRECTO_schema.png[https:/
 * 3 x resistencia 1206 - 820 ohm -> https://es.farnell.com/multicomp-pro/mp003717/res-820r-1-0-25w-1206-pel-c-gruesa/dp/3392914
 * 3 x resistencia 1206 - 240 ohm -> https://es.farnell.com/multicomp-pro/mp003703/res-240r-1-0-25w-1206-pel-c-gruesa/dp/3392898
 
-# Equivalencias de pineado para cambiar en Quartus```
+# Equivalencias de pineado para cambiar en Quartus
+```
 ## HDMI Direct ATLAS_V002_CYC1000                                         ### VGA222 adaptador de 64Colores
 set_location_assignment PIN_L16 -to TMDS[0] # CLK-                        ### HS
 set_location_assignment PIN_L15 -to TMDS[1] # CLK+ # clock channel        ### VS
