@@ -38,4 +38,5 @@ set_location_assignment PIN_N2 -to TMDS[7]  # 2+   # red channel          ### RE
 ```
 
 Proyecto original de @subcriticalia y @Nabateo.
+
 Gracias a @Somhi (@somhic) por la ayuda como siempre.
