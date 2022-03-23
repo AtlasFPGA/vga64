@@ -1,9 +1,11 @@
 # vga64
-Adaptador directo de hdmi a vga, usando kicad 6, para la atlasfpga.
+Adaptador directo de hdmi a vga para la atlasfpga. Diseño usando Kicad 6.0
 
 La profundidad actual que conseguimos de 64 colores usando 2 bits por color, por eso la llamamos vga64 aunque también podría llamarse vga222.
 
 El adaptador puede ser usado solo o con una adaptador vga<->scart si el core lo permite sin problemas.
+
+![FotoFrontal_vga64](https://github.com/AtlasFPGA/vga64/blob/main/photos/VGADIRECTO_front.png?raw=true)
 
 # Esquemas
 ![Esquema vga64](https://github.com/AtlasFPGA/vga64/raw/main/photos/VGADIRECTO_schema.png?raw=true)[https://github.com/AtlasFPGA/vga64/blob/main/VGADIRECTO.pdf]
